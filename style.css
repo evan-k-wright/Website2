@@ -1,0 +1,82 @@
+.menu {
+    color:whitesmoke;
+    font-size: 24px;
+    font-family: georgia;
+    display: block;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.menu:hover {
+    color: black;
+}
+
+.menu:active{
+    color: pink;
+}
+
+
+li {
+    float: right;
+}
+ul {
+    background-color: gray;
+    list-style-type: none;
+    overflow: hidden;
+    margin: 0px;
+    padding: 0px;
+}
+#active {
+    color:brown;
+}
+p {
+    font-size: 18px;
+    font-family: georgia;
+    padding: 10px 60px;
+}
+img {
+    width: 5%;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+footer{
+    background-color: gray;
+}
+#footText {
+    color: whitesmoke;
+}
+#home {
+    background-image: url(images/bt.png)
+}
+#about {
+    background-image: url(images/about.jpeg)
+}
+#contact {
+    background-image: url(images/contact.jpeg)
+}
+.picBackdrop {
+    background-position: center;
+    background-size: cover;
+}
+h1 {
+    margin: 0px;
+    padding: 120px 10px;
+    height: 60px;
+    text-align: center;
+    color: brown;
+    font-size: 72px;
+    font-family: georgia;
+}
+body {
+    background-color: bisque;
+}
+p {
+    color: blue
+}
+.red {
+    color: red;
+}
+#green {
+    color:green;
+}
